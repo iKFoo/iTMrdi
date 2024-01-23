@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)
 <h1 align="center">Hi 👋, I'm Nawaf</h1>
 <h3 align="center">Hi im Nawaf im learning the basics here!</h3
 
